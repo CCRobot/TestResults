@@ -1,0 +1,50 @@
+### Error Output   
+```
+NONE
+```
+### stderr Output   
+
+```
+
+```
+### stdout Output   
+
+```
+Searching for Clang...
+Clang++ found at /usr/bin/clang++
+Build path: /home/helixbot/dotnetbuild/work/cc24aa63-a758-4049-a548-bd2a07a28778/Work/b06df43d-cd1a-42a3-8d1c-318e574c24ff/Exec/ChakraCore/out/Debug
+-- /home/helixbot/dotnetbuild/work/cc24aa63-a758-4049-a548-bd2a07a28778/Work/b06df43d-cd1a-42a3-8d1c-318e574c24ff/Exec/ChakraCore/bin/ch/DbgController.js.h is up to date. skipping.
+Compile Target : System Default
+Generating Debug makefiles
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/helixbot/dotnetbuild/work/cc24aa63-a758-4049-a548-bd2a07a28778/Work/b06df43d-cd1a-42a3-8d1c-318e574c24ff/Exec/ChakraCore/out/Debug
+[  6%] Built target libwabt
+[ 19%] Built target Chakra.Pal
+[ 19%] Built target Chakra.Common.Codex
+[ 21%] Built target Chakra.Common.Common
+[ 24%] Built target Chakra.Common.Core
+[ 25%] Built target Chakra.Common.Exceptions
+[ 26%] Built target Chakra.Common.DataStructures
+[ 26%] Built target Chakra.Common.Util
+[ 32%] Built target Chakra.Common.Memory
+[ 36%] Built target Chakra.Parser
+[ 38%] Built target Chakra.Runtime.PlatformAgnostic
+[ 43%] Built target Chakra.Runtime.Base
+[ 51%] Built target Chakra.Runtime.ByteCode
+[ 59%] Built target Chakra.Backend
+[ 62%] Built target Chakra.Runtime.Debug
+[ 62%] Built target Chakra.Runtime.Math
+[ 66%] Built target Chakra.Runtime.Types
+[ 68%] Built target Chakra.Jsrt
+[ 68%] Built target Chakra.Jsrt.Core
+[ 78%] Built target Chakra.Runtime.Language
+[ 79%] Built target Chakra.WasmReader
+[ 97%] Built target Chakra.Runtime.Library
+[ 98%] Built target ChakraCoreStatic
+[ 98%] Built target GCStress
+[100%] Built target ch
+
+```   
+#### exitCode : 0
